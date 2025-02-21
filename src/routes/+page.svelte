@@ -1,2 +1,8 @@
+<script lang="ts">
+	import State from '$lib/State.svelte';
+</script>
+
 <h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<p>Hacker News <a href="/hackernews">here</a></p>
+
+<State />
